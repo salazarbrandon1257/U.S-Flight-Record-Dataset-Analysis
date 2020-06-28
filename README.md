@@ -1,4 +1,6 @@
-# Data Scraping and Analysis on e-commerce book website (Python, bs4, SQL)
-### Above is the code I used to scrape the data (can be accessed by clicking on <> Code). Below is a description of my project along with graphs describing the data I scraped
-- Developed a program in Python to scrape data from an e-commerce book website, specifically product names, prices and ratings
-- Designed and implemented databases in SSMS for the purpose of descriptive statistical analysis, data cleansing and data analysis
+# Data Analysis on U.S Flight Record Dataset (R)
+### Above is the code I used for this projectthe data (can be accessed by clicking on <> Code). Below is a description of my project.
+
+- Analyzed data to find best fitting distributions in order to obtain expected values and probabilities
+- Derived and presented meaningful conclusions from a real dataset of 260,000 objects and 9 variables
+
